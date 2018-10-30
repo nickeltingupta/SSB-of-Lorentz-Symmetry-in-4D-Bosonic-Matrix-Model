@@ -15,7 +15,7 @@ using namespace std;
 const int L = 1;
 const int T = 1;
 const int D = 1;
-const int NSCALAR = 6; // Change this according to model
+const int NSCALAR = 8; // Change this according to model
 const int SITES = L * T;
 const int NCOLOR = 8;
 const int RANK = NCOLOR * NCOLOR - 1;
