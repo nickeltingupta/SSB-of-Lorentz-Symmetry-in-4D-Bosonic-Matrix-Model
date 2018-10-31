@@ -15,9 +15,9 @@ using namespace std;
 const int L = 1;
 const int T = 1;
 const int D = 1;
-const int NSCALAR = 6; // Change this according to model
+const int NSCALAR = 4; // Change this according to model
 const int SITES = L * T;
-const int NCOLOR = 8;
+const int NCOLOR = 6;
 const int RANK = NCOLOR * NCOLOR - 1;
 const double GAUGETOL = 0.000001;
 const double TRACETOL = 1e-8;       // Will be used to test norm()
